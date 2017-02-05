@@ -7,8 +7,10 @@ Topics:
 * Circuit systems
 * Fourier series
 * Modelling using MATLAB
+* and more...
 
-Questions that I found fascinating are posted here. MATLAB was to work with large matrices and plot solutions. All solutions were written by me. 
+Questions and solutions (MATLAB code and plots) that I find fascinating are posted here. 
+All solutions are written by me. 
 
 # Images
 <img src=/Assignment2/stringdeflectiondc.png alt="string_deflection" width="500" />
