@@ -13,5 +13,8 @@ Questions and solutions (MATLAB code and plots) that I find fascinating are post
 All solutions are written by me. 
 
 # Images
-<img src=/Assignment2/stringdeflectiondc.png alt="string_deflection" width="500" />
-<img src=/Assignment2/q1cubicinterp.png alt="cubic_spline_example" width="500"/>
+<img src=/ProblemSet2/cubicinterp.png alt="string_deflection" width="500" />
+<img src=/ProblemSet2/finitediffeigenvalue.png alt="cubic_spline_example" width="500"/>
+
+String deflection with different variances
+<img src=/ProblemSet2/stringdeflectiondv.png alt="stringdeflection" width="500"/>
