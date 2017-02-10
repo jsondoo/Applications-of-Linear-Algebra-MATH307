@@ -16,5 +16,5 @@ All solutions are written by me.
 <img src=/ProblemSet2/cubicinterp.png alt="string_deflection" width="500" />
 <img src=/ProblemSet2/finitediffeigenvalue.png alt="cubic_spline_example" width="500"/>
 
-String deflection with different variances
+String deflection with different variances <br>
 <img src=/ProblemSet2/stringdeflectiondv.png alt="stringdeflection" width="500"/>
