@@ -33,3 +33,5 @@ legend('\lambda=-8.2','\lambda=-37.8','\lambda=-87.1','Location','northwest');
 title('Solving differential equations as an eigenvalue problem')
 xlabel('x')
 ylabel('u (eigenvector)') 
+
+% From part 1 q5

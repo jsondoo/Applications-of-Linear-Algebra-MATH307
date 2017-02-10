@@ -1,5 +1,4 @@
-clear
-% Modelling the deflection of a string
+% Modelling the deflection of a string using Gaussian Distribution
 % String held at x=0,1; y=0
 % Pulled up with center = XI, variance = SIGMA
 
@@ -128,3 +127,4 @@ function f = load2(x);
 f = 1-x^2;
 end
 
+% From part 1 q3

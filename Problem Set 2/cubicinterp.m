@@ -65,3 +65,5 @@ f_3 = a_3*(x3-3).^3 + b_3*(x3-3).^2 + c_3*(x3-3) + 3;
 p2=plot(x1, f_1, '-g', x2, f_2,'-g', x3, f_3,'-g','linewidth',1);
 
 legend([p0,p1(1),p2(1)],'data points', 'cubic spline', 'MATLABs cubic spline');
+
+% From part 1 q1

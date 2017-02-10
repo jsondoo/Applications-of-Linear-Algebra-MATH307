@@ -26,3 +26,5 @@ x = linspace(1,3,N)';
 
 figure
 plot(x,f_x);
+
+% From part 2 q3
