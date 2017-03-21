@@ -1,4 +1,4 @@
-# Applications Of Linear Algebra (MATH307 2016W T2)
+# Linear Algebra (MATH307 2016W T2)
 Topics:
 * Lagrange interpolation
 * Cubic spline interpolation
@@ -7,10 +7,8 @@ Topics:
 * Circuit systems
 * Fourier series
 * Modelling using MATLAB
-* and more...
 
-Questions and solutions (MATLAB code and plots) that I find fascinating are posted here. 
-All solutions are written by me. 
+Assignment solutions written by me 
 
 # Images
 <img src=/ProblemSet2/cubicinterp.png alt="string_deflection" width="500" />
