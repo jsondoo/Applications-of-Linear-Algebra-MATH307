@@ -1,5 +1,5 @@
 # Linear Algebra (MATH307 2016W T2)
-Topics:
+Topics inlcude 
 * Lagrange interpolation
 * Cubic spline interpolation
 * Finite differences to solve second order differential equations
@@ -7,8 +7,6 @@ Topics:
 * Circuit systems
 * Fourier series
 * Modelling using MATLAB
-
-Assignment solutions written by me 
 
 # Images
 <img src=/ass2/cubicinterp.png alt="string_deflection" width="500" />
